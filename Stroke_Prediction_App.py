@@ -10,7 +10,7 @@ import pickle
 import streamlit as st
 
 # Loading pre-trained model
-model = pickle.load(open('C:/Users/Laptop House/Desktop/proj 1/Stroke/trained_model.sav','rb'))
+model = pickle.load(open('trained_model.sav','rb'))
 
 def stroke_classifier(user_input):
     
