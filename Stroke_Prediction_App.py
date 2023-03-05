@@ -26,7 +26,7 @@ def stroke_classifier(user_input):
 
 def main():
     
-    st.title('Brain Stroke Prediction App\nby Umair Akram')
+    st.title('Brain Stroke Prediction App\nby [Umair Akram] (https://www.linkedin.com/in/m-umair01/)')
     st.write("The Machine Learning model is a pipeline of Standard Scaler and XGBoost Classifier. Its code and other interesting projects are available on my [website](https://mumairab.github.io/)")
     h1 = "This App uses Machine Learning to predict whether you are vulnerable to Brain Stroke or not!"
     st.subheader(h1)
