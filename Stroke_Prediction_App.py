@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Mar  4 14:11:04 2023
+This code creates an app that predicts the brain stroke using Machine Learning. The App is deployed on Streamlit Community Cloud.
+It takes 7 characteristics as input and predicts whether you are vulnerable to brain stroke or not.
 
+It is created by Umair Akram
 """
 
 # Import necessary libraries
