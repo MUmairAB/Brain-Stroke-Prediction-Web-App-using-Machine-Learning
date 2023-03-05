@@ -30,9 +30,10 @@ def main():
     
     st.title('Brain Stroke Prediction App')
     st.write("Created by: [Umair Akram](https://www.linkedin.com/in/m-umair01/)")
-    st.write("The Machine Learning model is a pipeline of Standard Scaler and XGBoost Classifier. Its code and other interesting projects are available on my [website](https://mumairab.github.io/)")
+   
     h1 = "This App uses Machine Learning to predict whether you are vulnerable to Brain Stroke or not!"
     st.subheader(h1)
+    st.write("The Machine Learning model is a pipeline of Standard Scaler and XGBoost Classifier. Its code and other interesting projects are available on my [website](https://mumairab.github.io/)")
     h2 = "Enter the following values to know the status of your health"
     st.write(h2)
     
